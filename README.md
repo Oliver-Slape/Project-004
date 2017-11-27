@@ -5,8 +5,8 @@
 
 
 <h1> User Stories <h1>
-    
-<h3>  <h3>
+    <h3>  <h3>
+
 # Flow Chart 
 
 ![FlowChart](https://github.com/Oliver-Slape/Project-002/blob/master/Flowchart.p)
