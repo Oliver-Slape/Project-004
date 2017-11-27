@@ -1,5 +1,6 @@
 # Project-004
-
+## Countdown
+### Task: Research and implement a video game that mimics the popular show 'Countdown'. Review, refelect, refactor and evolve the code you designed and developed in Project-003 as a resonable starting point. 
 
 <h1> User Stories <h1>
     
