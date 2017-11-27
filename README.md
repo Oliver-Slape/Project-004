@@ -1,6 +1,8 @@
 # Project-004
 ## Countdown
 ### Task: Research and implement a video game that mimics the popular show 'Countdown'. Review, refelect, refactor and evolve the code you designed and developed in Project-003 as a resonable starting point. 
+### Simplified function: A 8 letter anagram puzzle. The user selects 8 vowels or Constantans. 30 second countdown. User inputs word found. Check if valid. Compare to highest value word. Give or decrease score.
+
 
 <h1> User Stories <h1>
     
