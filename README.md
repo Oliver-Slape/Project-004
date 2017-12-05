@@ -5,6 +5,7 @@
 
 
 <h1> User Stories <h1>
+
 ### 1.	As a user I want to be able to Select Vowels or Constantans.
 ### 2.	As a user I want the rules of Countdown to be implemented.
 ### 3.	As a user I want to be able to input my highest value word.
